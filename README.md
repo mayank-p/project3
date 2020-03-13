@@ -2,8 +2,7 @@
 project 3 - churn analysis
 
 Data Source:
-Our data was sourced from https://github.com/learn-co-students/Mod3-Project_HTX-DS-111819. We had 3 options to choose from, and decided go with 'Customer Churn Data'.
-
+Our data was sourced from https://www.kaggle.com/becksddf/churn-in-telecoms-dataset. 
 Business problem:
 Customers often take advantage of the greatest mobile company deals out there. Is it possible to predict whether a customer will churn or stay with the company? Given  some details such as phone numbers, charges and other features, we are going to build a classifier model to make the predict of whether the company can predict which customers it may lose soon.
 
